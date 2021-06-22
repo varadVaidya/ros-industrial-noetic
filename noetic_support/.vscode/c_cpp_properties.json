@@ -1,0 +1,18 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/varad/Study/Robotics/ros_industrial_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/varad/Study/Robotics/ros_industrial_ws/src/noetic_industrial/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}

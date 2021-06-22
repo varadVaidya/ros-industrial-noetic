@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../noetic_support"
+		}
+	],
+	"settings": {}
+}

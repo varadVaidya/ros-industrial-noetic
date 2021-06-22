@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: noetic_industrial
+Description: Description of noetic_industrial
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/varad/catkin_ws/src/noetic_industrial/build/devel
+
+Name: noetic_industrial
+Description: Description of noetic_industrial
+Version: 0.0.0
+Cflags: -I/home/varad/catkin_ws/src/noetic_industrial/build/devel/include
+Libs: -L${prefix}/lib 
+Requires: 
